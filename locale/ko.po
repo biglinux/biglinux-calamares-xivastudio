@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Base"
-msgstr "기지"
+msgid "XIVA Studio"
+msgstr "시바 스튜디오"
 
-msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
-msgstr "그래픽 인터페이스가없는 기본 biglinux 패키지 만."
+msgid "BigLinux para criação Multi-Media."
+msgstr "멀티미디어 제작을 위한 빅리눅스."

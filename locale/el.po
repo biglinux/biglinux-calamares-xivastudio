@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Base"
-msgstr "Βάση"
+msgid "XIVA Studio"
+msgstr "XIVA Στούντιο"
 
-msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
-msgstr "Μόνο βασικά πακέτα biglinux χωρίς γραφική διεπαφή."
+msgid "BigLinux para criação Multi-Media."
+msgstr "BigLinux για δημιουργία πολυμέσων."
