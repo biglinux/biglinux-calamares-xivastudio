@@ -1,0 +1,4 @@
+bootsplash-theme-biglinux
+biglinux-meta-audio-config
+pipewire-biglinux-config-git
+biglinux-name
