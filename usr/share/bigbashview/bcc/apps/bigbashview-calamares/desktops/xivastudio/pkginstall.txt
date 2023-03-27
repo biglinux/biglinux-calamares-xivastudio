@@ -123,3 +123,4 @@ manjaro-settings-manager-knotifier
 systemd-kcm
 xdg-desktop-portal-kde
 libpamac-flatpak-plugin
+biglinux-settings
