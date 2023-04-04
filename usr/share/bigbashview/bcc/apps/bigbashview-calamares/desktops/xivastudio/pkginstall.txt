@@ -1,6 +1,6 @@
 big-skel
 grub-theme-xivastudio
-bootsplash-theme-xivastudio
+plymouth-theme-xivastudio
 qpwgraph
 xivastudio-desktop
 pipewire-config
