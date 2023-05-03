@@ -3,4 +3,3 @@ biglinux-name
 biglinux-meta-audio-config
 pipewire-biglinux-config-git
 biglinux-mime
-brave-browser

@@ -110,7 +110,7 @@ spectacle
 vlc-luajit
 plasma5-applets-window-buttons
 plasma-simplemenu
-kvantum-qt5
+kvantum
 kdegraphics-thumbnailers
 ffmpegthumbs
 kimageformats
@@ -121,9 +121,8 @@ manjaro-settings-manager-kcm
 manjaro-settings-manager-knotifier
 systemd-kcm
 xdg-desktop-portal-kde
-pamac-flatpak-plugin
+libpamac-flatpak-plugin
 manjaro-printer
-gtk3-print-backends
 lib32-libva-intel-driver
 lib32-libva-mesa-driver
 lib32-libva-vdpau-driver
