@@ -1,4 +1,6 @@
-bootsplash-theme-biglinux
+plymouth-theme-biglinux
+biglinux-name
 biglinux-meta-audio-config
 pipewire-biglinux-config-git
-biglinux-name
+biglinux-mime
+brave-browser
