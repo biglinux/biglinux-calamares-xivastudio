@@ -17,5 +17,5 @@ export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=biglinux-calamares-xivastudio
 
 
-DESKTOP_NAME_DESC=$"XIVA Studio"
+DESKTOP_NAME_DESC="XIVA Studio"
 DESKTOP_INFO_DESC=$"BigLinux para criação Multi-Media."
