@@ -14,8 +14,5 @@ msgstr  "Project-Id-Version: biglinux-calamares-xivastudio\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-msgid   "XIVA Studio"
-msgstr  ""
-
 msgid   "BigLinux para criação Multi-Media."
 msgstr  ""

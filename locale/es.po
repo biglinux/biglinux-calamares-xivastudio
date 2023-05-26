@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "XIVA Studio"
-msgstr "Estudio XIVA"
-
 msgid "BigLinux para criação Multi-Media."
 msgstr "BigLinux para la creación multimedia."
